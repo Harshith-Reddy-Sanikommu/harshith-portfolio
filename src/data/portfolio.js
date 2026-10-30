@@ -153,6 +153,23 @@ const portfolio = {
       ],
       "github": "https://github.com/Harshith-Reddy-Sanikommu/Dynamic_Data_Analysis_Dashboard",
       "live": "https://dynamicdataanalysisdashboard-2q4yj4gusfjzfds9qkbtd6.streamlit.app/"
+    },
+    {
+      "title": "AI Voice Interview Coach (VocaPrep)",
+      "category": "Artificial Intelligence / Machine Learning / Full Stack Development",
+      "type": "Personal Project",
+      "description": "An AI-powered voice interview preparation platform that analyzes uploaded resumes and job descriptions to generate personalized interview questions. Candidates answer questions using voice, and the platform provides detailed performance analytics and feedback after completing the interview.",
+      "tech": [
+        "React.js",
+        "Python",
+        "FastAPI",
+        "Gemini API",
+        "RAG",
+        "ChromaDB",
+        "Web Speech API"
+      ],
+      "github": "https://github.com/Harshith-Reddy-Sanikommu/AI-Voice-Interview-Coach",
+      "live": "https://ai-voice-interview-coach-eight.vercel.app/"
     }
   ]
 }
